@@ -9,5 +9,5 @@ package entidadess.newpackage;
  * @author carol
  */
 public class NewClass {
-    
+    //por aqui anduvo caro cambiando codigo
 }
